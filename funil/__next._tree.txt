@@ -1,5 +1,5 @@
-:HL["/crm/_next/static/chunks/04q-u8rgk3zy5.css","style"]
+:HL["/crm/_next/static/chunks/1-v5zwi5c8gig.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"funil","h":96,"c":"$Q2"}]]
-0:{"b":"YIuzU0x_cRAEL7PJrRmID","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"EgeKA_L6mfkocqPVlLJKe","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
